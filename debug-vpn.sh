@@ -24,7 +24,7 @@
 vpn_host=
 local_interface=
 vpn_port=
-line_count=
+line_count=1
 
 touch local-addresses.txt
 echo "LOCAL MAC AND IP ADDRESS" >> local-addresses.txt
